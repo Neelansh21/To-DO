@@ -66,21 +66,6 @@ The application is designed to work across different screen sizes:
 * 📱 Tablet
 * 📱 Mobile
 
-## 📸 Screenshots
-
-Add screenshots of your application here:
-
-```text
-screenshots/
-└── todo.png
-```
-
-Then add:
-
-```markdown
-![To-Do List](screenshots/todo.png)
-```
-
 ## 📚 Concepts Practiced
 
 This project helped me practice:
@@ -94,14 +79,7 @@ This project helped me practice:
 * CSS class manipulation
 * Basic UI/UX design
 
-## 🔮 Future Improvements
 
-* [ ] Add LocalStorage for persistent tasks
-* [ ] Add task priorities
-* [ ] Add due dates
-* [ ] Add task search and filtering
-* [ ] Add dark mode
-* [ ] Add task categories
 
 ## 👨‍💻 Author
 
