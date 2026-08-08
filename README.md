@@ -90,6 +90,3 @@ IET Lucknow
 
 GitHub: [Neelansh21](https://github.com/Neelansh21)
 
-## ⭐ Feedback
-
-If you like this project, consider giving the repository a ⭐ on GitHub!
